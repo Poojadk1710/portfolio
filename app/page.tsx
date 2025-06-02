@@ -15,7 +15,7 @@ export default function Home() {
 
         <div className={styles.ctas}>
           <a
-            className={`${styles.primary}`}
+            className={styles.primary}
             href="/Pooja_Kulkarni_SWE.pdf"
             target="_blank"
             rel="noopener noreferrer"
@@ -23,7 +23,7 @@ export default function Home() {
             View Resume
           </a>
           <a
-            className={`${styles.secondary}`}
+            className={styles.secondary}
             href="/projects"
             rel="noopener noreferrer"
           >
@@ -33,11 +33,19 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <a href="https://linkedin.com/in/pdk17" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://linkedin.com/in/pdk17"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <Image src="/globe.svg" alt="LinkedIn" width={16} height={16} />
           LinkedIn
         </a>
-        <a href="https://github.com/Poojadk1710" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://github.com/Poojadk1710"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <Image src="/globe.svg" alt="GitHub" width={16} height={16} />
           GitHub
         </a>
