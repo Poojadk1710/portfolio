@@ -6,11 +6,11 @@ export default function Home() {
     <div className={styles.page}>
       <main className={styles.main}>
         <h1 style={{ fontSize: "2.5rem", fontWeight: "bold", textAlign: "center" }}>
-          Hi, I'm <span style={{ color: "#3b82f6" }}>Pooja Kulkarni</span>
+          Hi, I&apos;m <span style={{ color: "#3b82f6" }}>Pooja Kulkarni</span>
         </h1>
         <p style={{ textAlign: "center", maxWidth: 600 }}>
           Full-Stack Developer | XR Enthusiast | ML Explorer<br />
-          Currently pursuing my Master's in CS at University of Colorado, Denver.
+          Currently pursuing my Master&apos;s in CS at University of Colorado, Denver.
         </p>
 
         <div className={styles.ctas}>
