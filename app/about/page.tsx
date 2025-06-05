@@ -73,7 +73,7 @@ export default function AboutPage() {
         <section>
           <h2 style={{ fontSize: "1.5rem", fontWeight: "600" }}>💖 Interests</h2>
         <p>
-        I&#39;m passionate about immersive technologies like AR/VR, full-stack SaaS development, and using machine learning to solve real-world problems.
+        I am passionate about immersive technologies like AR/VR, full-stack SaaS development, and using machine learning to solve real-world problems.
         I enjoy building user-centric applications, participating in hackathons, and contributing to impactful domains like education and agriculture.
         Outside tech, I love public speaking, mentoring, exploring cultures, and reading about space and emerging tech.
         </p>
