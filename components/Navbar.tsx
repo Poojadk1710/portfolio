@@ -5,6 +5,7 @@ import styles from "../app/page.module.css";
 
 const links = [
   { href: "/", label: "Home" },
+  { href: "/about", label: "About" },
   { href: "/projects", label: "Projects" },
   { href: "/resume", label: "Resume" },
   { href: "/contact", label: "Contact" },
